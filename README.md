@@ -4,7 +4,7 @@
   <img style="border-radius: 4px; height: 20px;" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="discord">
 </a>
 
-- 🔭 Currently working on something cool (I'm bored)
+- 👀 cooking something (it's cool)
 - 🌱 Learning new skills
 - 👯 Looking for collaborators on sick coding projects
 - 🤔 Seeking help to improve and learn new programming languages
