@@ -7,7 +7,7 @@
 - 💻 Probably working rn
 - 🌱 Learning new skills
 - 👯 Looking for collaborators on sick projects
-- 📫 Reach me on Discord - jcjms#3836
+- 📫 Reach me on Discord - ´@sapiosexuell
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jcjms&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcjms&show_icons=true&theme=dark#gh-dark-mode-only)]-->
